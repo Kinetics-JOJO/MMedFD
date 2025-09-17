@@ -1,3 +1,16 @@
+##MMedFD:A Real-world Healthcare Benchmark for Multi-turn Full-Duplex Automatic Speech Recognition
+
+## Abstract
+Automatic speech recognition (ASR) in clinical dialogue demands robustness to full-duplex interaction, speaker overlap,and low-latency constraints, yet open benchmarks remain scarce. We present MMedFD, the first real-world Chinese healthcare ASR corpus designed for multi-turn, full-duplex settings. Captured from a deployed AI assistant, the dataset comprises 5,805 annotated sessions with synchronized user and mixed-channel views, RTTM/CTM timing, and role la-
+bels. We introduce a model-agnostic pipeline for streaming segmentation, speaker attribution, and dialogue memory, and
+fine-tune Whisper-small on role-concatenated audio for long context recognition. ASR evaluation includes WER, CER,
+and HC-WER, which measures concept-level accuracy across
+healthcare settings. LLM-generated responses are assessed
+using rubric-based and pairwise protocols. MMedFD estab-
+lishes a reproducible framework for benchmarking streaming
+ASR and end-to-end duplex agents in healthcare deployment.
+The dataset and related resources are publicly available at
+
 ## Whisper ASR Fine-tuning and Inference
 
 This repository provides a streamlined workflow to fine-tune OpenAI Whisper models on your data, run inference on a dataset, and evaluate results with CER/WER. The codebase is written in English and exposes consistent CLI options. Whisper model size is configurable.
