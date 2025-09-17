@@ -117,6 +117,10 @@ Pick a size by setting `MODEL_SIZE` in the train script or pass a full `--model_
   - Train with base: `MODEL_SIZE=base bash run_train_asr.sh`
   - Infer with medium: `--base_model_name openai/whisper-medium`
 
+### Data Availability
+The dataset used in this project is proprietary and is not publicly available. Access requires internal approval and a research-only data use agreement. Researchers who wish to request access may contact yangxiao.wxy@antgroup.com
+ with a brief description of their affiliation, project goals, intended use, and data protection plan. Only de-identified data may be shared, and redistribution is prohibited.
+ 
 ### Tips
 
 - If your Parquet audio has multiple channels, the inference code converts to mono automatically.
