@@ -12,7 +12,7 @@ ASR and end-to-end duplex agents in healthcare deployment.
 The dataset and related resources are publicly available at
 
 ## Overview of our benchmark-Compare with existing Bench
-![image](https://github.com/lexsaints/powershell/blob/master/IMG/ps2.png)
+![image]([https://github.com/lexsaints/powershell/blob/master/IMG/ps2.png](https://github.com/Kinetics-JOJO/MMedFD/blob/main/Image/Compare.png))
 
 ## Whisper ASR Fine-tuning and Inference
 
