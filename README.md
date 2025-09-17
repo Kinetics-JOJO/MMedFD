@@ -1,4 +1,4 @@
-##MMedFD:A Real-world Healthcare Benchmark for Multi-turn Full-Duplex Automatic Speech Recognition
+## MMedFD:A Real-world Healthcare Benchmark for Multi-turn Full-Duplex Automatic Speech Recognition
 
 ## Abstract
 Automatic speech recognition (ASR) in clinical dialogue demands robustness to full-duplex interaction, speaker overlap,and low-latency constraints, yet open benchmarks remain scarce. We present MMedFD, the first real-world Chinese healthcare ASR corpus designed for multi-turn, full-duplex settings. Captured from a deployed AI assistant, the dataset comprises 5,805 annotated sessions with synchronized user and mixed-channel views, RTTM/CTM timing, and role la-
