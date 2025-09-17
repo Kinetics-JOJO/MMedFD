@@ -11,7 +11,7 @@ lishes a reproducible framework for benchmarking streaming
 ASR and end-to-end duplex agents in healthcare deployment.
 The dataset and related resources are publicly available at
 
-## Overview of our benchmark-Compare with existing Bench
+## Overview of Our Benchmark-Compare with Existing Bench
 ![image](https://github.com/Kinetics-JOJO/MMedFD/blob/main/Image/Compare.png)
 
 ## Whisper ASR Fine-tuning and Inference
