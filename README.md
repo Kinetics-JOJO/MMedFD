@@ -11,6 +11,9 @@ lishes a reproducible framework for benchmarking streaming
 ASR and end-to-end duplex agents in healthcare deployment.
 The dataset and related resources are publicly available at
 
+## Overview of our benchmark-Compare with existing Bench
+![image](https://github.com/lexsaints/powershell/blob/master/IMG/ps2.png)
+
 ## Whisper ASR Fine-tuning and Inference
 
 This repository provides a streamlined workflow to fine-tune OpenAI Whisper models on your data, run inference on a dataset, and evaluate results with CER/WER. The codebase is written in English and exposes consistent CLI options. Whisper model size is configurable.
