@@ -116,6 +116,8 @@ Pick a size by setting `MODEL_SIZE` in the train script or pass a full `--model_
 - Examples:
   - Train with base: `MODEL_SIZE=base bash run_train_asr.sh`
   - Infer with medium: `--base_model_name openai/whisper-medium`
+### LLM Evaluation
+Our LLM evaluation are based on GPT-5（judge）,G-Eval and PairEval
 
 ### Data Availability
 The dataset used in this project is proprietary and is not publicly available. Access requires internal approval and a research-only data use agreement. Researchers who wish to request access may contact yangxiao.wxy@antgroup.com
