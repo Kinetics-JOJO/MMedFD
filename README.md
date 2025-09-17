@@ -9,7 +9,7 @@ healthcare settings. LLM-generated responses are assessed
 using rubric-based and pairwise protocols. MMedFD estab-
 lishes a reproducible framework for benchmarking streaming
 ASR and end-to-end duplex agents in healthcare deployment.
-The dataset and related resources are publicly available at https://github.com/Kinetics-JOJO/MMedFD/tree/main
+The dataset and related resources are publicly available at https://github.com/Kinetics-JOJO/MMedFD
 
 ## Overview of Our Benchmark-Compare with Existing Bench
 ![image](https://github.com/Kinetics-JOJO/MMedFD/blob/main/Image/Compare.png)
