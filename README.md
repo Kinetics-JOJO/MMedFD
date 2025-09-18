@@ -11,6 +11,10 @@ lishes a reproducible framework for benchmarking streaming
 ASR and end-to-end duplex agents in healthcare deployment.
 The dataset and related resources are publicly available at https://github.com/Kinetics-JOJO/MMedFD
 
+
+
+## Overview of Benchmark Data Construction
+![image](https://github.com/Kinetics-JOJO/MMedFD/blob/main/Image/Data_con.png)
 ## Overview of Our Benchmark-Compare with Existing Bench
 ![image](https://github.com/Kinetics-JOJO/MMedFD/blob/main/Image/Compare.png)
 
