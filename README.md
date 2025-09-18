@@ -14,7 +14,7 @@ The dataset and related resources are publicly available at https://github.com/K
 
 
 ## Overview of Benchmark Data Construction
-![image](https://github.com/Kinetics-JOJO/MMedFD/blob/main/Image/Data_con.png)
+![image](https://github.com/Kinetics-JOJO/MMedFD/blob/main/Image/Data_con_new.png)
 ## Overview of Our Benchmark-Compare with Existing Bench
 ![image](https://github.com/Kinetics-JOJO/MMedFD/blob/main/Image/Compare.png)
 
