@@ -124,7 +124,7 @@ Pick a size by setting `MODEL_SIZE` in the train script or pass a full `--model_
 Our LLM evaluation are based on GPT-5（judge）,G-Eval and PairEval are used for this evaluation, coresponding Prompt can be find in Fold “LLM_Eval_Prompt”.
 
 ### Data Availability
-The dataset used in this project is proprietary and is not publicly available. Access requires internal approval and a research-only data use agreement. Researchers who wish to request access may contact yangxiao.wxy@antgroup.com
+The dataset used in this project is proprietary currently and is not publicly available in this page. Access requires internal approval and a research-only data use agreement. Researchers who wish to request access may contact yangxiao.wxy@antgroup.com
  with a brief description of their affiliation, project goals, intended use, and data protection plan. Only de-identified data may be shared, and redistribution is prohibited.
  
 ### Tips
