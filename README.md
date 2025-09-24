@@ -1,9 +1,7 @@
 ## MMedFD: A Real-world Healthcare Benchmark for Multi-turn Full-Duplex Automatic Speech Recognition
 
 ### Data Availability
-The dataset used in this project is proprietary currently and is not publicly available in this page.
-Dataset is now ready to be opened in Huggingface, the link would be release soonly this week.
-Access requires internal approval and a research-only data use agreement. Researchers who wish to request access may contact yangxiao.wxy@antgroup.com with a brief description of their affiliation, project goals, intended use, and data protection plan. Only de-identified data may be shared, and redistribution is prohibited.
+The dataset used in this project is proprietary currently and is not publicly available in this page. Dataset is now ready to be opened in Huggingface, the link would be released soonly this week. Access requires internal approval and a research-only data use agreement. Researchers who wish to request access may contact yangxiao.wxy@antgroup.com with a brief description of their affiliation, project goals, intended use, and data protection plan. Only de-identified data may be shared, and redistribution is prohibited.
  
 ## Abstract
 Automatic speech recognition (ASR) in clinical dialogue demands robustness to full-duplex interaction, speaker overlap,and low-latency constraints, yet open benchmarks remain scarce. We present MMedFD, the first real-world Chinese healthcare ASR corpus designed for multi-turn, full-duplex settings. Captured from a deployed AI assistant, the dataset comprises 5,805 annotated sessions with synchronized user and mixed-channel views, RTTM/CTM timing, and role la-
