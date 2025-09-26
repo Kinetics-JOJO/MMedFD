@@ -13,7 +13,7 @@ If this code or our benchmark is useful for your research, please consider citin
 ```bibtex
 @misc{chen2025mmedfdrealworldhealthcarebenchmark,
       title={MMedFD: A Real-world Healthcare Benchmark for Multi-turn Full-Duplex Automatic Speech Recognition}, 
-      author={Hongzhao Chen and XiaoYang Wang and Jing Lan and Hexiao Ding and Yufeng Jiang MingHui Yang and DanHui Xu and Jun Luo and Nga-Chun Ng and Gerald W. Y. Cheng and Yunlin Mao and Jung Sun Yoo},
+      author={Hongzhao Chen and XiaoYang Wang and Jing Lan and Hexiao Ding and Yufeng Jiang and MingHui Yang and DanHui Xu and Jun Luo and Nga-Chun Ng and Gerald W. Y. Cheng and Yunlin Mao and Jung Sun Yoo},
       year={2025},
       eprint={2509.19817},
       archivePrefix={arXiv},
