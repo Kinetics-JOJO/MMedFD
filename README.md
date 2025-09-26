@@ -1,5 +1,9 @@
 ## MMedFD: A Real-world Healthcare Benchmark for Multi-turn Full-Duplex Automatic Speech Recognition
-[MMedFD](https://arxiv.org/abs/2509.19817)
+
+</div>
+<p align="center">
+<p align="center">
+🤗 <a href="https://huggingface.co/datasets/HanselZz/MMedFD" target="_blank">HuggingFace</a> | 📄 arXiv:[MMedFD](https://arxiv.org/abs/2509.19817)
 
 ### Data Availability
 The dataset used in this project is proprietary currently and is not publicly available in this page. Dataset is now ready to be opened in Huggingface, the link would be released soonly this week. Access requires internal approval and a research-only data use agreement. Researchers who wish to request access may contact yangxiao.wxy@antgroup.com with a brief description of their affiliation, project goals, intended use, and data protection plan. Only de-identified data may be shared, and redistribution is prohibited.
