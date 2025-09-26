@@ -6,7 +6,7 @@
 🤗 <a href="https://huggingface.co/datasets/HanselZz/MMedFD" target="_blank">HuggingFace</a> | 📄 <a href="https://arxiv.org/abs/2509.19817" target="_blank">arXiv</a>
 
 ### Data Availability
-The dataset used in this project is proprietary currently and is not publicly available in this page. Dataset is now open in the Huggingface🤗 <a href="https://huggingface.co/datasets/HanselZz/MMedFD" target="_blank">HuggingFace</a>. Full access requires internal approval and a research-only data use agreement. Researchers who wish to request access may contact yangxiao.wxy@antgroup.com with a brief description of their affiliation, project goals, intended use, and data protection plan. Only de-identified data may be shared, and redistribution is prohibited.
+The dataset used in this project is proprietary currently and is not publicly available in this page. Dataset is now open in the 🤗 <a href="https://huggingface.co/datasets/HanselZz/MMedFD" target="_blank">HuggingFace</a>. Full access requires internal approval and a research-only data use agreement. Researchers who wish to request access may contact yangxiao.wxy@antgroup.com with a brief description of their affiliation, project goals, intended use, and data protection plan. Only de-identified data may be shared, and redistribution is prohibited.
 
 ## Citation
 If this code or our benchmark is useful for your research, please consider citing our paper:
